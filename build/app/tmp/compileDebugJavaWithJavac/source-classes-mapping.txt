@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/mh1/restaurant_menu/restaurant_menu_app/BuildConfig.java
+ com.mh1.restaurant_menu.restaurant_menu_app.BuildConfig
