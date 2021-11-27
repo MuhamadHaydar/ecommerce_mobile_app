@@ -1,6 +1,6 @@
-# restaurant_menu_app
+# ecommerce flutter project
 
-A restaurant menu flutter project.
+A ecommerce flutter project.
 
 ## Getting Started
 
